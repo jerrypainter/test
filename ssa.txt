@@ -29,3 +29,4 @@ Style: Wolf main,Wolf_Rain,56,15724527,15724527,15724527,4144959,0,0,1,1,2,2,5,5
 Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: Marked=0,0:02:40.65,0:02:41.79,Wolf main,Cher,0000,0000,0000,,Et les enregistrements de ses ondes delta ?
 Dialogue: Marked=0,0:02:42.42,0:02:44.15,Wolf main,autre,0000,0000,0000,,Toujours rien.
+Dialogue: Marked=0,0:02:46.42,0:02:48.15,Wolf main,autre,0000,0000,0000,,rien.
